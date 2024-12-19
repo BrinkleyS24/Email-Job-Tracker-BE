@@ -3,4 +3,4 @@ service-account-key.json
 /node_modules
 
 # Ignore large files
-model/distilbert_email_classifier/model.safetensors
+model/
